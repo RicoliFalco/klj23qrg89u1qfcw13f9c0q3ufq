@@ -1,4 +1,4 @@
-# Euris Fronten-End development test
+# FE development test
 
 ## Project Setup
 
